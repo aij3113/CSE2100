@@ -3,4 +3,4 @@
 Software Development Project 1
 
 The Project is basically a PayRoll Management Software.
-It is under development...
+Here employees salary can be generated according to company policy.
